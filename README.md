@@ -1,4 +1,4 @@
-# Projet-1
+# Project-1
 
 # Analyze data from educational systems
 
