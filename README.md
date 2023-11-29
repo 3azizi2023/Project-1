@@ -1,7 +1,6 @@
 # Projet-1
 
-
-- Analyze data from educational systems
+# Analyze data from educational systems
 
 - Introduction
 A EdTech startup named Academy, offering online courses for university and high school students, currently aims to expand internationally.
