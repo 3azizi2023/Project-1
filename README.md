@@ -1,24 +1,25 @@
 # Projet-1
-Analysez des données de systèmes éducatifs
 
-1. Préambule
 
-Une Start-up de la EdTech nommée Academy propose des formations en ligne pour des étudiants universitaires et des lycéens, son objectif actuel est l'expansion à l’international.
+- Analyze data from educational systems
 
-2. Mission
+- Introduction
+A EdTech startup named Academy, offering online courses for university and high school students, currently aims to expand internationally.
 
-Dans le cadre du projet d’expansion à l’international de l’entreprise, réaliser une analyse exploratoire pour déterminer si ce jeu de données peut informer les décisions d'ouverture vers de nouveaux pays.
+- Mission
+As part of the company's international expansion project, conduct an exploratory analysis to determine if this dataset can provide insights for decisions regarding the opening of new countries.
 
-3. Analyse pré-exploratoire
+Pre-Exploratory Analysis
+The 5 datasets obtained from the World Bank to pre-explore and utilize are:
 
-Les 5 jeux de données obtenus de la Banque mondiale à pré-explorer puis à exploiter sont :
+1. EdStatsCountry
 
-3.1. EdStatsCountry
+2. EdStatsCountrySeries
 
-3.2. EdStatsCountrySeries
+3. EdStatsData
 
-3.3. EdStatsData
+4. EdStatsFootNote
 
-3.4. EdStatsFootNote
+5. EdStatsSeries
 
-3.5. EdStatsSeries
+
